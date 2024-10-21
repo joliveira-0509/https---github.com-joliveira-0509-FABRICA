@@ -49,7 +49,7 @@ section.slider {
 .nav-manual, .nav-auto {
     position: absolute;
     width: 100%;
-    margin-top: 26%;
+    margin-top: 19%;
     display: flex;
     justify-content: center;
 }
