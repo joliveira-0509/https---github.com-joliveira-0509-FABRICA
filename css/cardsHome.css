@@ -55,3 +55,11 @@ a {
     font-family: "Aoboshi One";
     margin-top: 6px;
 }
+
+@media screen and (max-width:1360px){
+    .div-box{
+        width: 90%;
+        height: 70%;
+        padding-bottom: 15px;
+    }
+}
